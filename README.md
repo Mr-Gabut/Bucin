@@ -1,0 +1,2 @@
+# Bucin
+Buat nembak cw
