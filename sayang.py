@@ -13,7 +13,7 @@ def loading():
   load = '~'
   count = 0
   pros = "\rLoading "
-  for x in range(10):
+  for x in range(101):
     time.sleep(0.1)
     print(pros, load, x, "%", end="", flush=True)
     count += 1
