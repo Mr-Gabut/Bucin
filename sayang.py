@@ -2,6 +2,8 @@ import time
 import os
 import sys
 
+time.sleep(2)
+os.system('clear')
 def mengetik(c):
   c = c + '\n'
   for x in c:
