@@ -32,7 +32,7 @@ def pil():
   pi=(input("[~] Pilih nomor 1/2 : "))
   if(pi=='1'): 
     loading()
-    mengetik("Aku Juga Sayang")
+    mengetik("Aku Juga Sayang Sama Kamu..")
   elif(pi=='2'): 
     loading()
     mengetik("Mungkin Nanti kamu bakal sayang")
