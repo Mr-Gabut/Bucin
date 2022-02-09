@@ -11,7 +11,7 @@
       <h7>  $ cd Bucin </h7></br>
       <h7>  $ python sayang.py </h7>
     </body>
-    </br>
-    <a href="https://facebook.com/Github.Recoder"> - Fans page </a>
+    </br></br></br>
+    <a href="https://facebook.com/Github.Recoder"> <b>Fans page</b> </a>
   </body>
 </html>
