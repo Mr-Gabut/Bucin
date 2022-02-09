@@ -11,7 +11,6 @@
 ```
   $ cd Bucin
   $ python sayang.py
-```
   
     </br></br></br>
     <a href="https://facebook.com/Github.Recoder"> <b>Fans page</b> </a>
