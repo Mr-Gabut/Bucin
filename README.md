@@ -8,10 +8,12 @@
       <p></p></br>
     </head>
     <body>
+      <p>
 ```
      $ cd Bucin
      $ python sayang.py
  ```
+      </p>
     </body>
     </br></br></br>
     <a href="https://facebook.com/Github.Recoder"> <b>Fans page</b> </a>
