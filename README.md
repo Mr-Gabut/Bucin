@@ -14,6 +14,6 @@
       </p>
     </body>
     </br>
-    <a href="https://www.facebook.com/FireMe17"=_blank> <b>Fans page</b> </a>
+    <a href="https://www.facebook.com/FireMe17"=_Blank> <b>Fans page</b> </a>
   </body>
 </html>
