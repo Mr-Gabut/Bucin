@@ -4,12 +4,14 @@
   </head>
   <body>
     <head>
-      <h4> How To Use? </h4></br>
+      <h4> How To Use? </h4>
+      <p></p></br>
     </head>
     <body>
       <h7>  $ cd Bucin </h7></br>
       <h7>  $ python sayang.py </h7>
     </body>
+    </br>
     <a href="https://facebook.com/Github.Recoder"> - Fans page </a>
   </body>
 </html>
