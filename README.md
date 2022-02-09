@@ -9,10 +9,8 @@
     </head>
     <body>
       <p>
-```
-     $ cd Bucin
-     $ python sayang.py
- ```
+      <b>$ cd Bucin
+        $ python sayang.py</b>
       </p>
     </body>
     </br></br></br>
