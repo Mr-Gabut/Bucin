@@ -9,11 +9,11 @@
     </head>
     <body>
       <p>
-      <b>$ cd Bucin
+        <b>$ cd Bucin</br>
         $ python sayang.py</b>
       </p>
     </body>
-    </br></br></br>
+    </br>
     <a href="https://facebook.com/Github.Recoder"> <b>Fans page</b> </a>
   </body>
 </html>
